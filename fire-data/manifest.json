@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "version": "3772be457ceabd77fa5b",
+  "generatedAt": "2026-08-07T18:26:37.166Z",
+  "refreshAfterSeconds": 300,
+  "current": {
+    "url": "./snapshots/current-9f1b30995bccf8644b40.json",
+    "sha256": "9f1b30995bccf8644b40afc8f759b962cabde516f785a030bdd8ea20192c9771",
+    "fireCount": 355,
+    "bytes": 256772
+  },
+  "history": {
+    "windowHours": 48,
+    "bucketHours": 6,
+    "blocks": []
+  }
+}
